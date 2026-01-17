@@ -24,8 +24,34 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-4.0.0-blue?style=for-the-badge&logo=firefox" alt="Version">
   <img src="https://img.shields.io/github/stars/Gurulabstech/GURU-MD?style=for-the-badge&logo=github&color=yellow" alt="Stars">
-  <img src="https://img.shields.io/github/forks/Gurulabstech/GURU-MD?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  <img src="https://img.shields.io/badge/Forks-🍴_Fork_Now-blue?style=for-the-badge&logo=github" alt="Forks">
   <img src="https://img.shields.io/github/license/Gurulabstech/GURU-MD?style=for-the-badge&color=green" alt="License">
+</p>
+
+<!-- Action Buttons Row 1 -->
+<p align="center">
+  <!-- Fork Button -->
+  <a href="https://github.com/Gurulabstech/GURU-MD/fork">
+    <img src="https://img.shields.io/badge/🍴_FORK_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" height="40">
+  </a>
+  
+  <!-- Get Session ID Button -->
+  <a href="https://xgurupairing1-b1268276f8b5.herokuapp.com">
+    <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID" height="40">
+  </a>
+</p>
+
+<!-- Action Buttons Row 2 -->
+<p align="center">
+  <!-- WhatsApp Channel -->
+  <a href="https://whatsapp.com/channel/0029VbBNUAFFXUuUmJdrkj1f">
+    <img src="https://img.shields.io/badge/📢_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" height="40">
+  </a>
+  
+  <!-- WhatsApp Group -->
+  <a href="https://chat.whatsapp.com/LBV3oBOkwOCILSvAUQqIAY">
+    <img src="https://img.shields.io/badge/👥_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group" height="40">
+  </a>
 </p>
 
 <!-- Animated Description -->
@@ -136,7 +162,7 @@ cd GURU-MD
 # Install dependencies
 npm install
 
-# Get Session ID
+# Get Session ID from pairing site
 # Visit: https://xgurupairing1-b1268276f8b5.herokuapp.com
 
 # Start the bot
