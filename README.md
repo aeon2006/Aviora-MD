@@ -1,56 +1,97 @@
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/robot.png"/>
+<!-- Main Title with Colors -->
+<h1 align="center">
+  <span style="color: #00C853">G</span><span style="color: #2196F3">U</span><span style="color: #FF9800">R</span><span style="color: #E91E63">U</span><span style="color: #9C27B0">-</span><span style="color: #00C853">M</span><span style="color: #2196F3">D</span>
+</h1>
 
-# GURU-MD  
-### Secure • Fast • Advanced WhatsApp MD Bot
+<h3 align="center">
+  <img src="https://img.shields.io/badge/⚡_Next_Gen_WhatsApp_Bot-00C853?style=for-the-badge" alt="Bot">
+</h3>
 
-A **next-generation WhatsApp Multi-Device bot** built with the latest **Baileys MD**,  
-designed for **developers, automation lovers, and serious bot hosting**.
+<!-- Bot Image -->
+<p align="center">
+  <img src="https://files.catbox.moe/ntfw9h.jpg" width="250" style="border-radius: 50%; border: 4px solid #00C853;" alt="GURU-MD Bot">
+</p>
 
-<br>
+<!-- Live Stats -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-4.0.0-blue?style=for-the-badge&logo=firefox" alt="Version">
+  <img src="https://img.shields.io/github/stars/Gurulabstech/GURU-MD?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Gurulabstech/GURU-MD?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  <img src="https://img.shields.io/github/license/Gurulabstech/GURU-MD?style=for-the-badge&color=green" alt="License">
+</p>
 
-<a href="https://github.com/Gurulabstech/GURU-MD">
-  <img src="https://img.shields.io/github/stars/Gurulabstech/GURU-MD?style=for-the-badge&color=0aff9d"/>
-</a>
-<a href="https://github.com/Gurulabstech/GURU-MD/fork">
-  <img src="https://img.shields.io/github/forks/Gurulabstech/GURU-MD?style=for-the-badge&color=0aff9d"/>
-</a>
-<a href="https://github.com/Gurulabstech/GURU-MD/issues">
-  <img src="https://img.shields.io/github/issues/Gurulabstech/GURU-MD?style=for-the-badge&color=ff6b6b"/>
-</a>
+<!-- Animated Description -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00C853&center=true&vCenter=true&width=600&lines=Secure+⚡+Fast+⚡+Multi-Device;Powered+by+Baileys+MD+Latest;500%2B+Commands+Available" alt="Typing SVG">
+</p>
 
-<br><br>
+---
 
-🔐 **SESSION-ID AUTHENTICATION**  
-GURU-MD uses a **secure encrypted Session ID** instead of unstable QR loops.  
-Pair once, get your Session ID, deploy, and stay connected without random logouts.
+## 🚀 **DEPLOYMENT**
 
-🔗 **PAIR & GET SESSION ID**  
-https://xgurupairing1-b1268276f8b5.herokuapp.com  
+### **🌐 One-Click Deploy (Verified Working)**
 
-⚠️ Keep your Session ID private — anyone with it can control the bot.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://heroku.com/deploy?template=https://github.com/Gurulabstech/GURU-MD">
+        <img src="https://www.herokucdn.com/deploy/button.svg" height="40" alt="Deploy to Heroku">
+      </a>
+      <br>
+      <sub>✅ Heroku (Verified)</sub>
+    </td>
+    <td align="center">
+      <a href="https://railway.app/new/template?template=https://github.com/Gurulabstech/GURU-MD">
+        <img src="https://railway.app/button.svg" height="40" alt="Deploy on Railway">
+      </a>
+      <br>
+      <sub>✅ Railway (Verified)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://render.com/deploy?repo=https://github.com/Gurulabstech/GURU-MD">
+        <img src="https://img.shields.io/badge/Deploy%20to%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="40" alt="Deploy to Render">
+      </a>
+      <br>
+      <sub>✅ Render (Verified)</sub>
+    </td>
+    <td align="center">
+      <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Gurulabstech/GURU-MD&branch=main">
+        <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="40" alt="Deploy on Koyeb">
+      </a>
+      <br>
+      <sub>✅ Koyeb (Verified)</sub>
+    </td>
+  </tr>
+</table>
 
-<br>
+### **🔧 Self-Hosted Options**
 
-⚙️ **DEPLOY ANYWHERE**  
-Heroku • VPS • Railway • Render • Bot Panels • Termux (Android)  
-No platform lock, no restrictions — full control.
+<p align="center">
+  <a href="#local-installation">
+    <img src="https://img.shields.io/badge/Local_Install-4CAF50?style=for-the-badge&logo=terminal&logoColor=white" height="40" alt="Local Install">
+  </a>
+  <a href="#termux-installation">
+    <img src="https://img.shields.io/badge/Termux-1ABC9C?style=for-the-badge&logo=android&logoColor=white" height="40" alt="Termux">
+  </a>
+  <a href="#vps-installation">
+    <img src="https://img.shields.io/badge/VPS_Deploy-FF6B35?style=for-the-badge&logo=server&logoColor=white" height="40" alt="VPS Deploy">
+  </a>
+</p>
 
-📦 **OFFICIAL REPOSITORY**  
-https://github.com/Gurulabstech/GURU-MD  
+---
 
-<br>
+## 📦 **INSTALLATION**
 
-🧠 **CORE FEATURES**  
-⚡ Latest Baileys MD engine  
-🔐 Secure Session-ID login  
-🧩 Modular & clean codebase  
-👥 Group management tools  
-🎵 Media & downloader commands  
-🤖 AI & utility features  
-🛠 Easy to customize & extend  
+### **1. Quick Deploy (Recommended)**
+Click any button above → Add Session ID → Deploy!
 
-<br>
-
-🧪 **EXAMPLE COMMANDS**
+### **2. Local Installation**
+```bash
+git clone https://github.com/Gurulabstech/GURU-MD.git
+cd GURU-MD
+npm install
+npm start
