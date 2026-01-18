@@ -39,7 +39,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://xgurupairing1-b1268276f8b5.herokuapp.com">
+      <a href="https://guru-provistions.lovable.app">
         <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-2575FC?style=for-the-badge&logo=key&logoColor=white" alt="Get Session ID" height="60">
       </a>
     </td>
