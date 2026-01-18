@@ -30,7 +30,7 @@
 
 ## 🎯 **QUICK ACTIONS**
 
-<!-- BIG Buttons - Blue/Purple Theme -->
+<!-- BIG Buttons - Blue/Red Theme -->
 <table align="center">
   <tr>
     <td align="center">
@@ -100,7 +100,7 @@
       <sub>✅ Render (Verified)</sub>
     </td>
     <td align="center">
-      <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Gurulabstech/GURU-MD&branch=main">
+      <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/aeon2006/Aviora-MD">
         <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="45" alt="Deploy on Koyeb">
       </a>
       <br>
@@ -114,7 +114,7 @@
 ## 📦 **INSTALLATION**
 
 ### **1. Quick Deploy (Recommended)**
-1. **Fork this repository first** - [Click here to fork](https://github.com/Gurulabstech/GURU-MD/fork)
+1. **Fork this repository first** - [Click here to fork](https://github.com/aeon2006/Aviora-MD/fork)
 2. Click any deploy button above → Use YOUR forked repo URL
 3. Get Session ID from: [https://xgurupairing1-b1268276f8b5.herokuapp.com](https://xgurupairing1-b1268276f8b5.herokuapp.com)
 4. Add Session ID to environment variables → Deploy!
@@ -122,8 +122,7 @@
 ### **2. Local Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/Gurulabstech/GURU-MD.git
-cd GURU-MD
+git clone https://github.com/aeon2006/Aviora-MD
 
 # Install dependencies
 npm install
