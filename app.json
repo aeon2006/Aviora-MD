@@ -1,8 +1,8 @@
 {
-  "name": "guru-md",
-  "description": "A WhatsApp Bot Created by GuruTech",
-  "logo": "https://files.catbox.moe/ntfw9h.jpg",
-  "keywords": ["GURU-MD"],
+  "name": "Aviora-MD",
+  "description": "A WhatsApp Bot Created by Fashola Ayomide",
+  "logo": "",
+  "keywords" ["AVIORA-MD"],
   "success_url": "/",
 
   "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "GURU MD"
+      "value": "AVIORA MD"
     }, 
       
     "PREFIX": {
@@ -76,25 +76,25 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY GURU MD 🤍*"
+      "value": "*SEEN YOUR STATUS BY AVIORA MD 🤍*"
     }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "GuruTech"
+      "value": "FASHOLA AYOMIDE"
     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254778074353"
+      "value": "2349060450854"
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "GURU MD"
+      "value": "AVIORA MD"
     }, 
 
     "ANTI_LINK": {
@@ -124,13 +124,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ntfw9h.jpg"
+      "value": ""
     },
     
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ GuruTech*"
+      "value": "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ FASHOLA AYOMIDE*"
     },
 
     "DELETE_LINKS": {
