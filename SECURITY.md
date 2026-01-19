@@ -16,7 +16,7 @@ We strongly recommend all users stay on the latest release.
 
 ## Reporting a Vulnerability
 
-**We take the security of GURU MD very seriously.**  
+**We take the security of Aviora MD very seriously.**  
 If you discover a security vulnerability, **please do NOT open a public issue** — report it privately so we can fix it before it becomes public knowledge.
 
 ### How to Report
@@ -24,13 +24,12 @@ If you discover a security vulnerability, **please do NOT open a public issue** 
 Please send your report to one of the following trusted contacts:
 
 - **Primary contact (project owner):**  
-  Email: [guru.tech.official@gmail.com](mailto:guru.tech.official@gmail.com)  
-  WhatsApp: +254778074353 (preferred for quick communication)
+  Email: [afashola92.@gmail](mailto:afashola92.official@gmail.com)  
+  WhatsApp: +2349060450854 (preferred for quick communication)
 
 - **Alternative contact:**  
   Open a private issue on GitHub:  
-  https://github.com/itsguruu/GURU-MD/security/advisories/new
-
+  https://github.com/aeon2006
 ### What to Include in Your Report
 
 To help us understand and resolve the issue quickly, please include as much of the following as possible:
@@ -57,5 +56,5 @@ To help us understand and resolve the issue quickly, please include as much of t
 
 Thank you for helping keep **GURU MD** secure!
 
-© 2025–2026 GURU MD – Created by GuruTech  
-https://github.com/itsguruu/GURU-MD
+© 2025–2026 AVIORA MD – Created by FASHOLA AYOMIDE  
+https://github.com/aeon2006
