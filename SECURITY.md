@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We actively provide security updates for the following versions of **GURU MD**:
+We actively provide security updates for the following versions of **AVIORA MD**:
 
 | Version   | Supported          | Security Updates Until     | Notes                              |
 |-----------|--------------------|----------------------------|------------------------------------|
@@ -24,7 +24,7 @@ If you discover a security vulnerability, **please do NOT open a public issue** 
 Please send your report to one of the following trusted contacts:
 
 - **Primary contact (project owner):**  
-  Email: [afashola92@gmail](mailto:afashola92.official@gmail.com)  
+  Email: [afashola92@gmail.com](mailto:afashola92official@gmail.com)  
   WhatsApp: +2349060450854 (preferred for quick communication)
 
 - **Alternative contact:**  
