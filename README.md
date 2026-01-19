@@ -17,15 +17,15 @@
 
 <!-- Bot Image -->
 <p align="center">
-  <img src="https://files.catbox.moe/ntfw9h.jpg" width="250" style="border-radius: 50%; border: 4px solid #00C853;" alt="GURU-MD Bot">
+  <img src="" width="250" style="border-radius: 50%; border: 4px solid #00C853;" alt="GURU-MD Bot">
 </p>
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-4.0.0-blue?style=for-the-badge&logo=firefox" alt="Version">
-  <img src="https://img.shields.io/github/stars/Gurulabstech/GURU-MD?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  <img src="" alt="Version">
+  <img src="" alt="Stars">
   <img src="https://img.shields.io/badge/Forks-🍴_Fork_Now-blue?style=for-the-badge&logo=github" alt="Forks">
-  <img src="https://img.shields.io/github/license/Gurulabstech/GURU-MD?style=for-the-badge&color=green" alt="License">
+  <img src="" alt="License">
 </p>
 
 ## 🎯 **QUICK ACTIONS**
@@ -35,7 +35,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Gurulabstech/GURU-MD/fork">
-        <img src="https://img.shields.io/badge/🍴_FORK_REPOSITORY-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" height="60">
+        <img src="" alt="Fork Repo" height="60">
       </a>
     </td>
     <td align="center">
