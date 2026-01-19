@@ -1,7 +1,7 @@
 {
-  "name": "guru-md",
+  "name": "AVIORA-md",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created by GuruTech",
+  "description": "A WhatsApp Bot Created by FASHOLA AYOMIDE",
   "type": "module",
   "main": "index.js",
   "engines": {
@@ -12,9 +12,9 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "pm2:start": "pm2 start index.js --name GURU_MD",
-    "pm2:stop": "pm2 stop GURU_MD",
-    "pm2:restart": "pm2 restart GURU_MD",
-    "pm2:logs": "pm2 logs GURU_MD",
+    "pm2:stop": "pm2 stop AVIORA_MD",
+    "pm2:restart": "pm2 restart AVIORA_MD",
+    "pm2:logs": "pm2 logs AVIORA_MD",
     "pm2:status": "pm2 status"
   },
   "dependencies": {
@@ -56,7 +56,7 @@
   "devDependencies": {
     "nodemon": "^3.1.7"
   },
-  "author": "GuruTech",
+  "author": "FASHOLA AYOMIDE",
   "license": "ISC",
   "overrides": {
     "file-type": "^16.5.4",
