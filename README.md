@@ -2,7 +2,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gurulabstech&repo=GURU-MD&label=REPO+VISITORS&color=00C853&style=for-the-badge" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=Gurulabstech&repo=AVIORA-MD&label=REPO+VISITORS&color=00C853&style=for-the-badge" alt="Visitors">
   <img src="https://img.shields.io/badge/👁️_LIVE_VIEWS-📊_TRACKING-2196F3?style=for-the-badge" alt="Live Views">
 </p>
 
@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Gurulabstech/GURU-MD/fork">
+      <a href="https://github.com/aeon2006/Aviora-MD">
         <img src="" alt="Fork Repo" height="60">
       </a>
     </td>
