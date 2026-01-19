@@ -10,18 +10,18 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "",
     PREFIX: process.env.PREFIX || ".",
     BOT_NAME: process.env.BOT_NAME || "GURU MD",
-    STICKER_NAME: process.env.STICKER_NAME || "GURU MD",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254778074353",
-    OWNER_NAME: process.env.OWNER_NAME || "GuruTech",
-    DEV: process.env.DEV || "254778074353",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ GuruTech*",
+    STICKER_NAME: process.env.STICKER_NAME || "AVIORA MD",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2349060450854",
+    OWNER_NAME: process.env.OWNER_NAME || "FASHOLA AYOMIDE",
+    DEV: process.env.DEV || "2349060450854",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ FASHOLA AYOMIDE*",
     MODE: process.env.MODE || "public", // public, private, group, inbox
 
     // ──────────────── Status Features ────────────────
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY GURU MD 🤍*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY AVIORA MD 🤍*",
 
     // ──────────────── Anti & Protection ────────────────
     ANTI_LINK: process.env.ANTI_LINK || "true",
@@ -49,9 +49,9 @@ module.exports = {
     ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 
     // ──────────────── Visuals & Media ────────────────
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ntfw9h.jpg",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/ntfw9h.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *GURU MD* ⚡",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "",
+    ALIVE_IMG: process.env.ALIVE_IMG || "",
+    LIVE_MSG: process.env.LIVE_MSG || "> HELLO MOTHER FUCKER *AVIORA MD* ⚡",
 
     // ──────────────── NEW & ADVANCED OPTIONS (2026) ────────────────
     AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || "true",        // Auto mark status as seen
@@ -66,6 +66,6 @@ module.exports = {
     AUTO_READ_RECEIPTS: process.env.AUTO_READ_RECEIPTS || "true",   // Send blue ticks automatically
 
     // Add more here if you want (future-proof)
-    // MAX_GROUP_LIMIT: process.env.MAX_GROUP_LIMIT || 10,
+    // MAX_GROUP_LIMIT: process.env.MAX_GROUP_LIMIT || 100,
     // AUTO_BACKUP: process.env.AUTO_BACKUP || "false",
 };
